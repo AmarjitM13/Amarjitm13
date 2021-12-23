@@ -2,7 +2,7 @@
 
 ## Wanna know something about me ? let's see
 
-- 🎓 **I'm persuing B.Sc in Mathematics**
+- 🎓 **I'm persuing MCA(Master of Computer Application)**
 
 - ✌  **Flutter Enthusiast**
 
