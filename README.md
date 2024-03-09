@@ -1,39 +1,40 @@
-# Hello there 👋, I'm Amarjit
+# Amarjit Mallick
 
-## Wanna know something about me ? let's see
+👋 Hello, I'm Amarjit! Welcome to my GitHub profile.
 
-- 🎓 **I'm persuing MCA(Master of Computer Application)**
+## About Me
 
-- ✌  **Flutter Enthusiast**
+I am a passionate Flutter developer, enthusiastic about creating delightful and performant mobile applications. My journey involves exploring the intricacies of UI/UX design and crafting seamless user experiences.
 
-- 📱  **Rookie Android App Developer**
+## 🔧 Technologies & Tools
 
-- 💻 **Beginner in Web App Development using Flutter**
+- **Flutter & Dart:** Proficient in building cross-platform mobile applications.
+- **State Management:** Experienced with BLoC, MOBX, providers like Provider and Riverpod.
+- **UI Frameworks:** Worked with Material Design and Cupertino for native-like interfaces.
+- **Database:** Familiar with Firebase for real-time databases.
+- **Version Control:** Git and GitHub for collaborative development.
 
-## Programming Languages & Tools I'm familiar with:
+## 🌱 Currently Learning
 
-[<img align="left" alt="Flutter" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/flutter.png" />][website]
-[<img align="left" alt="Dart" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/dart.png" />][website]
-[<img align="left" alt="C" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/c.png" />][website]
-[<img align="left" alt="C++" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/c++.png" />][website]
-[<img align="left" alt="VS Code" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/vs-code.png" />][website]
-[<img align="left" alt="Android Studio" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/android-studio.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/git.png" />][website]
-[<img align="left" alt="Firebase" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/firebase.png" />][website]
+I'm currently diving deeper into Flutter's advanced animations and exploring state-of-the-art UI design principles. Excited to integrate more backend technologies into my projects.
+
+## 📫 Get in Touch
+
+[<img align="left" alt="Linkedin" width="30px" src="https://img.icons8.com/color/96/linkedin.png" />][linkedin]
+[<img align="left" alt="X" width="30px" src="https://img.icons8.com/color/96/twitterx--v1.png" />][twitter]
 
 <br />
 
-## Connect with me:
+## 🌐 Website
 
-[<img align="left" alt="Linkedin" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Twitter" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/twitter.png" />][twitter]
-[<img align="left" alt="Instagram" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/instagram.png" />][instagram]
-[<img align="left" alt="Facebook" width="26px" src="https://github.com/AmarjitM13/AmarjitM13/blob/master/Icons/facebook.png" />][facebook]
+Visit my personal website: [amarjitmallick.netlify.app](https://amarjitmallick.netlify.app/)
 
-</details>
+## 🤝 Open to Flutter Collaboration
 
-[website]: https://github.com/AmarjitM13
+I'm always open to collaborating on interesting Flutter projects. If you have an idea or want to work together on a Flutter app, feel free to reach out!
+
+
+Thanks for checking out my Flutter adventures! 😊
+
 [twitter]: https://twitter.com/AmarjitM13
-[instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/amarjit-mallick-53a89a187/
-[facebook]: https://facebook.com
